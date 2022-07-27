@@ -62,61 +62,63 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ## Conference Presentations
 
-- <b>[29]</b> Dong-gi Lee, Junhee Cho, Myungjun Kim, Sunghong Park, Hyunjung Shin. Learning without Lazy Weights. IEEE International Conference on Big Data and Smart Computing (IEEE BigComp 2022), January 2022, Daegu (Korea).
+- <b>[30]</b> Sunghong Park, Hyunjung Shin. Domain adaptation based multi-graph integration for semi-supervised learning. Proc. of Korea Computer Congress 2022 (KCC 2022), June 2022, Jeju (Korea).
 
-- <b>[28]</b> Myeonggeon Park, Sunghong Park, Hyunjung Shin. Literature Representation using Character Networks based on Sentiment Analysis. IEEE International Conference on Big Data and Smart Computing (IEEE BigComp 2022), January 2022, Daegu (Korea).
+- <b>[29]</b> Sunghong Park, Sang Joon Son, Yonghyun Nam, Hyunjung Shin. Predicting Alzheimer's disease progression using multi-site domain adaptation. Proc. of Korea Computer Congress 2022 (KCC 2022), June 2022, Jeju (Korea).
 
-- <b>[27]</b> Myeonggeon Park, Sunghong Park, Hyunjung Shin. Literature Representation using Sentiment Analysis based Character Relation Network. Proc. of Korea Software Congress 2021 (KSC 2021), December 2021, PyeongChang (Korea).
+- <b>[28]</b> Sunghong Park, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin. Prospective Classification for Predicting Alzheimer's Disease Progression. Proc. of Korea Computer Congress 2022 (KCC 2022), June 2022, Jeju (Korea).
 
-- <b>[26]</b> Myeonggeon Park, Sunghong Park, Hyunjung Shin. Network based Text Embedding using Sentiment Analysis. Proc. of Korea Computer Congress 2021 (KCC 2021), June 2021, Online conference.
+- <b>[27]</b> Sunghong Park, Hyunjung Shin. Semi-supervised learning using domain adaptation-based multi-graph integration. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2022 Spring), June 2022, Jeju (Korea).
 
-- <b>[25]</b> Sunghong Park, Myungjun Kim, Hyunjung Shin. Domain Adaptation based Semi-Supervised Learning for Mutual Label Propagation. Proc. of Joint Conference on Management Science and Industrial Engineering (MSIE 2021), June 2021, Jeju (Korea).
+- <b>[26]</b> Sunghong Park, Sang Joon Son, Yonghyun Nam, Hyunjung Shin. Dementia progression prediction using multi-site domain adaptation. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2022 Spring), June 2022, Jeju (Korea).
 
-- <b>[24]</b> Myeonggeon Park, Sunghong Park, Hyunjung Shin. Network based Sentiment Analysis for Literature Representation. Proc. of Joint Conference on Management Science and Industrial Engineering (MSIE 2021), June 2021, Jeju (Korea).
+- <b>[25]</b> Sunghong Park, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin. A Prospective Classification Algorithm for Predicting Dementia Progression. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2022 Spring), June 2022, Jeju (Korea).
 
-- <b>[23]</b> Sunghong Park, Myungjun Kim, Hyunjung Shin. Mutual Semi-Superivsed Learning. Proc. of Korea Software Congress 2020 (KSC 2020), December 2020, Online conference.
+- <b>[24]</b> Dong-gi Lee, Junhee Cho, Myungjun Kim, Sunghong Park and Hyunjung Shin. “Learning Neural Networks without Lazy Weights”, Proc. of 2022 International Conference on Big Data and Smart Computing (BIGCOMP 2022).
 
-- <b>[22]</b> Myeonggeon Park, Sunghong Park, Sunjoo Bang, Hyunjung Shin. Clustering Novels with Character Sentiment Network. Proc. Of Korea Software Congress 2020 (KSC 2020), December 2020, Online conference.
+- <b>[23]</b> Myeonggeon Park, Sunghong Park and Hyunjung Shin. “Literature Representation using Character Networks based on Sentiment Analysis”, Proc. of 2022 International Conference on Big Data and Smart Computing (BIGCOMP 2022).
 
-- <b>[21]</b> Dong-gi Lee, Sunghong Park, Myungjun Kim, Hyunjung Shin. Predicting Directionality between Nodes with Edge Feature Inference. Proc. Of Korea Software Congress 2020 (KSC 2020), December 2020, Online conference.
+- <b>[22]</b> Sunghong Park, Myungjun Kim, Hyunjung Shin. Mutual Label Propagation with Domain Adaptation based Semi-Supervised Learning. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2021 Spring), June 2021, Jeju (Korea).
 
-- <b>[20]</b> Myeonggeon Park, Sunghong Park, Sunjoo Bang, Hyunjung Shin. Extracting Novel Vectors based on Character Network. Proc. of the Korea Data Mining Society Conference Conference (KDMS 2020 Fall)	, November 2020, Seoul (Korea).
+- <b>[21]</b> Myeonggeon Park, Sunghong Park, Hyunjung Shin. Network based Sentiment Analysis for Narrative Representation. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2021 Spring), June 2021, Jeju (Korea).
 
-- <b>[19]</b> Kanghee Park, Hyunsook Noh, Sunghong Park, Hyunjung Shin. Introduction of Profiling Model Design and System for Enterprise Analysis and Potential Prediction. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2020 Fall), November 2020, Seoul (Korea).
+- <b>[20]</b> Sunghong Park, Myungjun Kim, Hyunjung Shin. Mutual Semi-Supervised Learning. Proc. of Korea Software Congress 2020 (KSC 2020), December 2020, Online conference.
 
-- <b>[18]</b> Jong Ho Jhee, Sunghong Park, Hyunjung Shin. Graph Classification with Gromov-Wasserstein Distance via Heat Kernel. Proc. of Korea Software Congress 2019 (KSC 2019), December 2019, PyeongChang (Korea).
+- <b>[19]</b> Myeonggeon Park, Sunghong Park, Sunjoo Bang, Hyunjung Shin. Clustering Novels with Character Sentiment Network. Proc. Of Korea Software Congress 2020 (KSC 2020), December 2020, Online conference.
 
-- <b>[17]</b> Sunghong Park, Kanghee Park, Hyunjung Shin. Machine Learning based Enterprise Prospect Evaluation. 2019 International Joint Conference on AI & Data Science: Mathematics and Applications, November 2019, Suwon (Korea).
+- <b>[18]</b> Myeonggeon Park, Sunghong Park, Sunjoo Bang, Hyunjung Shin. Extracting Novel Vectors based on Character Network. Proc. of the Korea Data Mining Society Conference Conference (KDMS 2020 Fall), November 2020, Seoul (Korea).
 
-- <b>[16]</b> Sunghong Park, Kanghee Park, Hyunjung Shin. Design of Enterprise Evaluation and Potential Prospect Index using Machine Learning. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2019 Fall), November 2019, Seoul (Korea).
+- <b>[17]</b> Jong Ho Jhee, Sunghong Park, Hyunjung Shin. Graph Classification with Gromov-Wasserstein Distance via Heat Kernel. Proc. of Korea Software Congress 2019 (KSC 2019), December 2019, PyeongChang (Korea).
 
-- <b>[15]</b> Kanghee Park, Yoonjung Choi, Eun-sun Kim, Sunghong Park, Hyunjung Shin. Enterprise Scoring Model based on Machine Learning. Proc. of Korea Academic Association of Business Administration Conference, June 2019, Seoul (Korea).
+- <b>[16]</b> Sunghong Park, Kanghee Park, Hyunjung Shin. Design of Enterprise Evalulation and Potential Prospect Index using Machine Learning. Proc. of the Korean Institute of Industrial Engineers Conference (KIIE 2019 Fall), November 2019, Seoul (Korea).
 
-- <b>[14]</b> Sunghong Park, Kanghee Park, Hyunjung Shin. Machine Learning based Enterprise Evaluation Model using Financial Information. Proc. of Korea Software Congress 2018 (KSC2018), December 2018, PyeongChang (Korea).
+- <b>[15]</b> Sunghong Park, Kanghee Park, Hyunjung Shin. Machine Learning based Enterprise Evaluation Model using Financial Information. Proc. of Korea Software Congress 2018 (KSC2018), December 2019, PyeongChang (Korea).
 
-- <b>[13]</b>	Sunghong Park, Kanghee Park, Hyunjung Shin. Financial Information based Enterprise Evaluation Model with Semi-Supervised Learning. Proc. of the Korea Data Mining Society Conference (KDMS 2018 Fall), November 2018, Seoul (Korea).
+- <b>[14]</b> Sunghong Park, Kanghee Park and Hyunjung Shin. “Machine Learning based Enterprise Prospect Evaluation”, 2019 International Joint Conference on AI & Data Science: Mathematics and Applications.
 
-- <b>[12]</b>	Sunghong Park, Kanghee Park, Hyunjung Shin. Semi-Supervised Learning based Korean Sentiment Dictionary Construction with SentiWordNet. Proc. of the Korea Data Mining Society Conference (KDMS 2018 Fall), November 2018, Seoul (Korea).
+- <b>[13]</b> Sunghong Park, Kanghee Park, Hyunjung Shin. Financial Information based Enterprise Evaluation Model with Semi-Supervised Learning. Proc. of the Korea Data Mining Society Conference Conference (KDMS 2018 Fall), November 2018, Seoul (Korea).
 
-- <b>[11]</b> Dong-gi Lee, Myungjun Kim, Sunghong Park, Hyunjung Shin. Causal Disease Chains from Various Biomedical data. Proc. of 17th European Conference on Computational Biology 2018 (ECCB 2018), September 2018. Athens (Greece).
+- <b>[12]</b> Sunghong Park, Kanghee Park, Hyunjung Shin. Semi-Supervised Learning based Korean Sentiment Dictionary Construction with SentiWordNet. Proc. of the Korea Data Mining Society Conference Conference (KDMS 2018 Fall), November 2018, Seoul (Korea).
+
+- <b>[11]</b> Dong-gi Lee, Myungjun Kim, Sunghong Park and Hyunjung Shin. “Causal Disease Chains from Various Biomedical data”, Proc. of 17th European Conference on Computational Biology 2018 (ECCB 2018).
 
 - <b>[10]</b> Sunghong Park, Dong-gi Lee, Hyunjung Shin. SentiWordNet based Korean Sentiment Dictionary Construction via Machine Learning. Proc. of Korea Computer Congress 2018 (KCC 2018), June 2018, Jeju (Korea).
 
-- <b>[9]</b>	Dong-gi Lee, Myungjun Kim, Sunghong Park, Hyunjung Shin. Inference on Chains of Disease Causal Relationship based on k-shortest Path Algorithm. Proc. of Korea Computer Congress 2018 (KCC2018), June 2018, Jeju (Korea).
+- <b>[9]</b> Dong-gi Lee, Myungjun Kim, Sunghong Park, Hyunjung Shin. Inference on Chains of Disease Causal Relationship based on k-shortest Path Algorithm. Proc. of Korea Computer Congress 2018 (KCC2018), June 2018, Jeju (Korea).
 
-- <b>[8]</b>	Sunghong Park, Junhee Cho, Hyunjung Shin. Sentiment Dictionary Construction and Customer Evaluation Analysis via Machine Learning. Proc. of the Business Intelligence and Data Mining Conference (BIDM 2018 Spring).
+- <b>[8]</b> Sunghong Park, Junhee Cho, Hyunjung Shin. Sentiment Dictionary Construction and Customer Evaluation Analysis via Machine Learning. Proc. of the Business Intelligence and Data Mining Conference (BIDM 2018 Spring).
 
-- <b>[7]</b>	Sunghong Park, Hyunjung Shin. Analysis of Word Polarity Expansion and Emotion Inducing Factors in Sentiment Analysis. Proc. of The Korean Software Congress 2017 (KSC 2017), December 2017, Busan (Korea).
+- <b>[7]</b> Sunghong Park, Hyunjung Shin. Analysis of Word Polarity Expansion and Emotion Inducing Factors in Sentiment Analysis. Proc. of The Korean Software Congress 2017 (KSC 2017), December 2017, Busan (Korea).
 
-- <b>[6]</b>	Sunghong Park, Dong-gi Lee, Hyunjung Shin. Mirroring Disease Networks for Drug Repositioning. Proc. of the Korean Society for Cognitive Science (KSCS 2017), May 2017, Seoul (Korea).
+- <b>[6]</b> Sunghong Park, Dong-gi Lee, Hyunjung Shin. Mirroring Disease Networks for Drug Repositioning. Proc. of the Korean Society for Cognitive Science (KSCS 2017), May 2017, Seoul (Korea).
 
 - <b>[5]</b> Sunghong Park, Dong-gi Lee, Hyunjung Shin. Machine Learning Algorithm for Drug Repositioning. Proc. of the Business Intelligence and Data Mining Conference (BIDM 2016 Fall), November 2016, Seoul (Korea).
 
-- <b>[4]</b>	Sunghong Park, Dong-gi Lee, Hyunjung Shin. Network Mirroring for Drug Repositioning. Proc. of Translational Bioinformatics Conference 2016 (TBC 2016), October 2016, Jeju (Korea).
+- <b>[4]</b> Sunghong Park, Dong-gi Lee and Hyunjung Shin. “Network Mirroring for Drug Repositioning”, Proc. of Translational Bioinformatics Conference 2016 (TBC 2016).
 
-- <b>[3]</b> Sunghong Park, Dong-gi Lee, Hyunjung Shin. Drug Repositioning with Disease Network Reflection. Proc. of the BIOINFO 2016 (BIOINFO 2016), August 2016, Incheon (Korea).
+- <b>[3]</b> Sunghong Park, Dong-gi Lee and Hyunjung Shin. “Drug Repositioning with Disease Network Reflection”, Proc. of the BIOINFO 2016 (BIOINFO 2016).
 
-- <b>[2]</b> Jiwoo Han, Kangsik Shin, Kilyong Lee, Kyunghye Kim, Minsoo Kim, Sunghong Park, Hyunjung Shin. Development plan for successful PyeongChang 2018 Olympic. Proc. of Joint Conference on Management Science and Industrial Engineering (MSIE 2016), April 2016, Jeju (Korea).
+- <b>[2]</b> Jiwoo Han, Kangsik Shin, Kilyong Lee, Kyunghye Kim, Minsoo Kim, Sunghong Park, Hyunjung Shin. Development plan for successful PyeongChang 2018 Olympic. Proc. of Joint Conference on Management Science and Industrial Engineering, April 2016, Jeju (Korea).
 
 - <b>[1]</b> Sunghong Park, Dong-gi Lee, Hyunjung Shin. Network Mirroring for Drug Repositioning. Proc. of Joint Conference on Management Science and Industrial Engineering (MSIE 2016), April 2016, Jeju (Korea).
 
