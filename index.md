@@ -5,39 +5,24 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ### Experience
-- <b>Assistant Professor</b> | September 2021 - Present
-  - Department of Artificial Intelligence, <b>Ajou University</b>, Suwon, Korea
+- <b>Post-doctoral Researcher</b> | September 2022 - Present
+  - Department of Psychiatry, <b>Ajou University School of Medicine</b>, Suwon, Korea
 
-- <b>Postdoctoral Researcher</b> | January 2020 - August 2021
-  - <b>[Samsung Genome Institute](http://www.samsunghospital.com/sgi)</b>, Samsung Medical Center, Seoul, Korea
-  - Department of Digital Health, SAIHST, Sungkyunkwan University, Samsung Medical Center, Seoul, Korea
-  - Research area: Bioinformatics, Cancer analysis
-  
-- <b>Visiting Graduate Student</b> | April 2019 - December 2020
-  - [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
-  - Advised by Professor Dokyoon Kim
-  - Research area: Bioinformatics, Multi-omics data integration, Network-based analysis, Cancer analysis
+---
 
-- <b>Ph.D. Student</b> | August 2014 - December 2020
-  - [Learning and Mining from data(LAMDA) lab](http://lamda.ml/) at <b>Ajou University</b>, Suwon, Korea
-  - Advised by Professor Kyung-Ah Sohn
-  - Research area: Bioinformatics, Social data mining, Multi-view learning, Multi-omics data integration, Network-based analysis
-  
-- <b>Teaching Assistant</b> | 
-  - Advanced Data Mining (Autumn 2016)
-  - Data Mining (Autumn 2014; Autumn 2015; Autumn 2016; Spring 2017)
-  - Algorithms (Spring 2015)
 
 ### Education
-- <b>Ajou University</b> |  
-  - <b>Ph.D.</b>, Computer Engineering, 2014 - 2020
+- <b>Ajou University, 2009 - 2022</b> |  
+  - <b>Ph.D.</b>, Artificial Intelligence, 2016 - 2022
     - Thesis: Network-based machine learning approach for aggregating multi-modal data [[Slides](https://www.slideshare.net/soyeon1771/networkbased-machine-learning-approach-for-aggregating-multimodal-data)]
     - Course works: Computational Biology, Bioinformatics, Biomedical and Healthcare Informatics, Computer Vision, Parallel and Distributed Systems, Advanced Algorithms, Advanced Data Mining
     
-  - <b>B.S.</b>, Computer Engineering, 2009 - 2014
+  - <b>B.E.</b>, Industrial Engineering, 2009 - 2016
     - Course works: Data Mining, Algorithms, Data Structure, Database, Probability and Statistics
 
-
+  - <b>B.E.</b>, Industrial Engineering, 2009 - 2016
+    - Course works: Data Mining, Algorithms, Data Structure, Database, Probability and Statistics
+- <b>Daegu Science High Schoold, 2006 - 2009</b> |  
 ---
 
 ### Publications
