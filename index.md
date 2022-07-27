@@ -23,7 +23,18 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ### Publications
 
+- <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. Prospective Domain Adaptation for Longitudinal Data. <b>(In preparation)</b>, 2022.
+
+- <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. Multiplex Graph Adapted Semi-Supervised Learning using Alternating Direction Method of Multipliers. <b>(In preparation)</b>, 2022.
+
+- <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin*. Multi-Site Domain Adaptation for Predicting the Conversion from Mild Cognitive Impairment to Alzheimer’s Disease. <b>(In preparation)</b>, 2022.
+
+- <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin*. A Prospective Classification of the Conversion from Mild Cognitive Impairment to Alzheimer’s Disease. <b>(In preparation)</b>, 2022.
+
+- <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin*. Mutual Domain Adaptation. <b>(In preparation)</b>, 2022.
+
+- <b>Sunghong Park†</b>, Kanghee Park†, Hyunjung Shin*. Network based Enterprise Profiling with Semi-Supervised Learning. <b>(In preparation)</b>, 2022.
+
+- <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin*. Customer sentiment analysis with more sensibility. <b>Engineering Applications of Artificial Intelligence</b>, 2021.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
+
 - <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. Network Mirroring for Drug Repositioning. <b>BMC medical informatics and decision making</b>, 2017. [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
-
-- <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin*. Customer sentiment analysis with more sensibility. <b>Engineering Applications of Artificial Intelligence</b>, 2021.  [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
-
