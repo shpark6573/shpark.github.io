@@ -28,14 +28,14 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Education
 
-- <b>Ajou University</b> (March 2009 - August 2022)
+- <b>Ajou University</b> (March 2009 - August 2022) 
 
   - <b>Ph.D.</b> in Artificial Intelligence (March 2016 - August 2022)
     - Thesis: Graph Domain Adaptation for Semi-Supervied Learning
     - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.net/)]
   - <b>B.S.</b> in Industrial Engineering (March 2009 - February 2016)
 
-- <b>Daegu Science High School</b> (March 2006 - February 2009)
+- <b>Daegu Science High School</b> (March 2006 - February 2009) 
 
 
 ---
