@@ -5,15 +5,19 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ### Experience
-- <b>Post-doctoral Researcher</b> | September 2022 - Present
-  - Department of Psychiatry, <b>Ajou University School of Medicine</b>, Suwon, Korea
+- <b>Post-doctoral Researcher (September 2021 - Present)</b>
+
+  - Department of Psychiatry, Ajou University School of Medicine, Suwon, Korea
 
 ---
 
 ### Education
-- <b>Ajou University (2009 - 2022)</b> |  
+
+- <b>Ajou University (2009 - 2022)</b>
+  
   - <b>Ph.D.</b>, Artificial Intelligence, 2016 - 2022
     - Thesis: Graph Domain Adaptation for Semi-Supervied Learning
+    - Advised by Professor Hyunjung Shin [[Lab](https://www.alphaminers.net)]
         
   - <b>B.E.</b>, Industrial Engineering, 2009 - 2016
 
