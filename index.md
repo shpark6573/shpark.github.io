@@ -5,7 +5,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ---
 
-## Research Interests & Skills
+## Research Interests
 - <b>Graph-based Machine Learning</b>  
   - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
   - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
