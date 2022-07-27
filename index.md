@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 My research interests include multi-view learning, network-based analysis, social data mining and biomedical informatics. 
 I've been mostly working on integrating multi-view data using network-based approaches for both social media and bioinformatics area. 
 
@@ -59,7 +59,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ---
 
-### Conference Presentations
+## Conference Presentations
 
 - <b>[29]</b> Dong-gi Lee, Junhee Cho, Myungjun Kim, Sunghong Park, Hyunjung Shin. Learning without Lazy Weights. IEEE International Conference on Big Data and Smart Computing (IEEE BigComp 2022), January 2022, Daegu (Korea).
 
@@ -122,7 +122,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ---
 
-### Awards
+## Awards
 
 - <b>[4]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2022 (KCC 2022)
 
