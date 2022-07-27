@@ -96,7 +96,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 - <b>[15]</b> <b>Sunghong Park</b>, Kanghee Park, Hyunjung Shin*. Machine Learning based Enterprise Evaluation Model using Financial Information. Proc. of Korea Software Congress 2018 (KSC2018), December 2019, PyeongChang (Korea).
 
-- <b>[14]</b> <b>Sunghong Park</b>, Kanghee Park and Hyunjung Shin*. “Machine Learning based Enterprise Prospect Evaluation”, 2019 International Joint Conference on AI & Data Science: Mathematics and Applications.
+- <b>[14]</b> <b>Sunghong Park</b>, Kanghee Park and Hyunjung Shin*. Machine Learning based Enterprise Prospect Evaluation, 2019 International Joint Conference on AI & Data Science: Mathematics and Applications.
 
 - <b>[13]</b> <b>Sunghong Park</b>, Kanghee Park, Hyunjung Shin*. Financial Information based Enterprise Evaluation Model with Semi-Supervised Learning. Proc. of the Korea Data Mining Society Conference Conference (KDMS 2018 Fall), November 2018, Seoul (Korea).
 
@@ -130,12 +130,16 @@ I've been mostly working on integrating multi-view data using network-based appr
 ## Awards
 
 - <b>[4]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2022 (KCC 2022)
+  - <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin*. Predicting Alzheimer's disease progression using multi-site domain adaptation.
 
 - <b>[3]</b> Best Paper Award, Proc. of Korea Software Congress 2020 (KSC 2020)
+  - <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin*. Mutual Semi-Supervised Learning.
 
 - <b>[2]</b> Best Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
+  - Dong-gi Lee, Myungjun Kim, <b>Sunghong Park</b>, Hyunjung Shin*. Inference on Chains of Disease Causal Relationship based on k-shortest Path Algorithm.
 
 - <b>[1]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
+  - <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. SentiWordNet based Korean Sentiment Dictionary Construction via Machine Learning.
 
 
 ---
