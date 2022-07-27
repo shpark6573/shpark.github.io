@@ -23,7 +23,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ### Publications
 
-- <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. Network Mirroring for Drug Repositioning. <b>BMC medical informatics and decision making</b>, 2017. [[Paper]([https://doi.org/10.1186/s13195-021-00854-z](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x))]
+- <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. Network Mirroring for Drug Repositioning. <b>BMC medical informatics and decision making</b>, 2017. [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
 
-- <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin*. Customer sentiment analysis with more sensibility. <b>Engineering Applications of Artificial Intelligence</b>, 2017. [[Paper]([https://www.sciencedirect.com/science/article/pii/S0952197621002049))]
+- <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin*. Customer sentiment analysis with more sensibility. <b>Engineering Applications of Artificial Intelligence</b>, 2021.  [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
 
