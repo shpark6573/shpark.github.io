@@ -36,7 +36,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 - <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin*. Mutual Domain Adaptation. <b>(In preparation)</b>, 2022.
 
-- <b>Sunghong Park†</b>, Kanghee Park†, Hyunjung Shin*. Network based Enterprise Profiling with Semi-Supervised Learning. <b>(In preparation)</b>, 2022.
+- <b>Sunghong Park</b>, Kanghee Park, Hyunjung Shin*. Network based Enterprise Profiling with Semi-Supervised Learning. <b>(In preparation)</b>, 2022.
 
 - <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin*. Customer sentiment analysis with more sensibility. <b>Engineering Applications of Artificial Intelligence</b>, 2021.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
 
