@@ -1,1 +1,13 @@
+title: Sunghong Park, PhD # your name (or website title) here
+logo: "/images/sunghong-park.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Post-doctoral Research <br>
+  Department of Psychiatry, Ajou University School of Medicine <br>
+  E-mail: pshong513@ajou.ac.kr
+  <br><br>
+  <a href="https://www.linkedin.com/in/so-yeon-kim/">LinkedIn</a> | 
+  <a href="https://https://scholar.google.com/citations?user=qodN5GQAAAAJ&hl=ko&oi=ao>Google scholar</a> | 
+  <a href="https://github.com/shpark6573">Github</a>
+  <br>
+google_analytics: UA-146834336-1 # your Google Analytics tracking ID here
 theme: jekyll-theme-minimal
