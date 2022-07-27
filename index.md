@@ -6,7 +6,6 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ### Experience
 - <b>Post-doctoral Researcher (September 2021 - Present)</b>
-
   - Department of Psychiatry, Ajou University School of Medicine, Suwon, Korea
 
 ---
