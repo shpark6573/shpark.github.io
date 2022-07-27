@@ -1,7 +1,6 @@
 ---
 # Portfolio
-My research interests include multi-view learning, network-based analysis, social data mining and biomedical informatics. 
-I've been mostly working on integrating multi-view data using network-based approaches for both social media and bioinformatics area. 
+Researches on machine learning algorithms and those applications in various fields
 
 
 ---
