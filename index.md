@@ -1,3 +1,4 @@
+---
 # Portfolio
 My research interests include multi-view learning, network-based analysis, social data mining and biomedical informatics. 
 I've been mostly working on integrating multi-view data using network-based approaches for both social media and bioinformatics area. 
@@ -132,3 +133,5 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 - <b>[1]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
 
+
+---
