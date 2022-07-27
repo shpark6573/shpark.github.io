@@ -5,7 +5,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ---
 
-### Research Interests & Skills
+## Research Interests & Skills
 - <b>Theory (Machine Learning / Datamining)</b>
   - Semi-Supervised Learning, Transfer Learning, Support Vector Machines, Neural Networks, Applied Statistics, Optimization, Graph-based methods
 
@@ -17,14 +17,14 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ---
 
-### Experience
+## Experience
 - <b>Post-doctoral Researcher</b> (September 2022 - Present)
   - Department of Psychiatry, Ajou University School of Medicine, Suwon, Korea
 
 
 ---
 
-### Education
+## Education
 
 - <b>Ajou University</b> (March 2009 - August 2022)
 
@@ -38,7 +38,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ---
 
-### Journal Publications
+## Journal Publications
 
 - <b>[8]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. Prospective Domain Adaptation for Longitudinal Data. <b>(In preparation)</b> (2022).
 
