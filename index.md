@@ -124,10 +124,10 @@ I've been mostly working on integrating multi-view data using network-based appr
 ### Awards
 
 - [4] Best Presentation Paper Award, Proc. of Korea Computer Congress 2022 (KCC 2022)
-- 
+
 - [3] Best Paper Award, Proc. of Korea Software Congress 2020 (KSC 2020)
-- 
+
 - [2] Best Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
-- 
+
 - [1] Best Presentation Paper Award, Proc. of Korea Computer Congress 2018 (KCC 2018)
 
