@@ -7,13 +7,15 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ## Research Interests & Skills
-- <b>Theory (Machine Learning / Datamining)</b>
-  - Semi-Supervised Learning, Transfer Learning, Support Vector Machines, Neural Networks, Applied Statistics, Optimization, Graph-based methods
+- <b>Graph-based Machine Learning</b>  
+  - <b>Graph Representation:</b> Graph Integration, Graph Comparison, Graph Embedding
+  - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
+  - <b>Domain Adaptation:</b> Transfer Learning, Heterogeneous Feature Adaptation, Multi-Modal Data, Longitudinal Data
 
 - <b>Application</b>
-  - BioMedical Informatics: Network based approach-Gene networks, Disease networks, Drug networks, Drug Discovery/Drug Repositioning, discovering candidate disease-genes(proteins)
-  - Text Mining: Sentiment Analysis, Customer Review Analysis, Sentiment Word Dictionary
-  - Finance: Enterprise Evaluation Model, Enterprise Profiling and Scoring
+  - <b>BioMedical Informatics:</b> Network based approach-Gene networks, Disease networks, Drug networks, Drug Discovery/Drug Repositioning, discovering candidate disease-genes(proteins)
+  - <b>Text Mining:</b> Sentiment Analysis, Customer Review Analysis, Sentiment Word Dictionary
+  - <b>Finance:</b> Enterprise Evaluation Model, Enterprise Profiling and Scoring
 
 
 ---
