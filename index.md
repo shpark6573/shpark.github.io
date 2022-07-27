@@ -62,7 +62,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ## Conference Presentations
 
-- <b>[30]</b><b>Sunghong Park</b>, Hyunjung Shin. Domain adaptation based multi-graph integration for semi-supervised learning. Proc. of Korea Computer Congress 2022 (KCC 2022), June 2022, Jeju (Korea).
+- <b>[30]</b> <b>Sunghong Park</b>, Hyunjung Shin. Domain adaptation based multi-graph integration for semi-supervised learning. Proc. of Korea Computer Congress 2022 (KCC 2022), June 2022, Jeju (Korea).
 
 - <b>[29]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin. Predicting Alzheimer's disease progression using multi-site domain adaptation. Proc. of Korea Computer Congress 2022 (KCC 2022), June 2022, Jeju (Korea).
 
