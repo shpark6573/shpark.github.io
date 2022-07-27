@@ -5,7 +5,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ---
 
-### Research Interesets & Skills
+### Research Interests & Skills
 - <b>Theory (Machine Learning / Datamining)</b>
   - Semi-Supervised Learning, Transfer Learning, Support Vector Machines, Neural Networks, Applied Statistics, Optimization, Graph-based methods
 
