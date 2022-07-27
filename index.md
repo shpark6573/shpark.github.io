@@ -13,9 +13,9 @@ I've been mostly working on integrating multi-view data using network-based appr
   - <b>Domain Adaptation:</b> Transfer Learning, Heterogeneous Feature Adaptation, Multi-Modal Data, Longitudinal Data
 
 - <b>Application</b>
-  - <b>BioMedical Informatics:</b> Network based approach-Gene networks, Disease networks, Drug networks, Drug Discovery/Drug Repositioning, discovering candidate disease-genes(proteins)
-  - <b>Text Mining:</b> Sentiment Analysis, Customer Review Analysis, Sentiment Word Dictionary
-  - <b>Finance:</b> Enterprise Evaluation Model, Enterprise Profiling and Scoring
+  - <b>BioMedical Informatics:</b> Neurodegenerative Diseases, Disease Progression, Biomarker Identification, Drug Repositioning, Personalized Medicine
+  - <b>Text Mining:</b> Sentiment Analysis, Customer Review Analysis
+  - <b>Finance:</b> Enterprise Evaluation Model, Enterprise Profiling
 
 
 ---
