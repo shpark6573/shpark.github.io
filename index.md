@@ -10,7 +10,7 @@ Researches on machine learning algorithms and those applications in various fiel
   - <b>Semi-Supervised Learning:</b> Label Propagation, Optimization
   - <b>Domain Adaptation:</b> Transfer Learning, Heterogeneous Feature Adaptation, Multi-Modal Data, Longitudinal Data
 
-- <b>Application</b>
+- <b>Application Fields</b>
   - <b>BioMedical Informatics:</b> Disease Progression, Biomarker Identification, Drug Repositioning, Personalized Medicine
   - <b>Text Mining:</b> Sentiment Analysis, Customer Review Analysis
   - <b>Finance:</b> Enterprise Evaluation Model, Enterprise Profiling
