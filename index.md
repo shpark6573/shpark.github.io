@@ -18,7 +18,7 @@ I've been mostly working on integrating multi-view data using network-based appr
     - Thesis: Graph Domain Adaptation for Semi-Supervied Learning
     - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.net/)]
         
-  - <b>B.E.</b> in Industrial Engineering (March 2009 - February 2016)
+  - <b>B.S.</b> in Industrial Engineering (March 2009 - February 2016)
 
 - <b>Daegu Science High School</b> (March 2006 - February 2009)
 
