@@ -31,7 +31,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
   - <b>Ph.D.</b> in Artificial Intelligence (March 2016 - August 2022)
     - Thesis: Graph Domain Adaptation for Semi-Supervied Learning
-    - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.net/)]
+    - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.ai/)]
   - <b>B.S.</b> in Industrial Engineering (March 2009 - February 2016)
 
 - <b>Daegu Science High School</b> (March 2006 - February 2009)
