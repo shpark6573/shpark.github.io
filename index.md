@@ -45,9 +45,9 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[7]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. "Multiplex Graph Adapted Semi-Supervised Learning using Alternating Direction Method of Multipliers". <b>(In preparation)</b> (2022).
 
-- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin*. "Multi-Site Domain Adaptation for Predicting the Conversion from Mild Cognitive Impairment to Alzheimer’s Disease". <b>(In preparation)</b> (2022).
+- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin*. "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b>(In preparation)</b> (2022).
 
-- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin*. "A Prospective Classification of the Conversion from Mild Cognitive Impairment to Alzheimer’s Disease". <b>(In preparation)</b> (2022).
+- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin*. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment". <b>(In preparation)</b> (2022).
 
 - <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin*. "Mutual Domain Adaptation". <b>(In preparation)</b> (2022).
 
