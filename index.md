@@ -41,6 +41,16 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Journal Publications
 
+- <b>[12]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim, Bumhee Park*, Sang Joon Son*. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
+
+- <b>[11]</b> <b>Sunghong Park</b>, Sang Joon Son, Na-Rae Kim, Bumhee Park*, Sang Joon Son*, Hyunjung Shin*. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
+
+- <b>[10]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim, Bumhee Park*, Sang Joon Son*. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
+
+- <b>[10]</b> <b>Sunghong Park</b>, Na-Rae Kim, Seul-gi Lee, Bumhee Park*, Sang Joon Son*. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage". <b>(In preparation)</b> (2022).
+
+- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi ee, Na-Rae Kim, Bumhee Park*, Sang Joon Son*. "Graph-based multi-modal neuroimage integration for disease-specific interpretable diagnosis prediction". <b>(In preparation)</b> (2022).
+
 - <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin*. "Prospective Domain Adaptation for Longitudinal Data". <b>(In preparation)</b> (2022).
 
 - <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin*. "Multiplex Graph Adapted Semi-Supervised Learning". <b>(In preparation)</b> (2022).
