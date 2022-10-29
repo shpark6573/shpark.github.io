@@ -43,31 +43,31 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Sang Joon Son*, Hyunjung Shin*. "NetPRS: Network-based Polygenic Risk Score". <b>(In preparation)</b> (2022).
 
-- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup>*</sup>, Hyunjung Shin<sup>*</sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <b>(In preparation)</b> (2022).
+- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son*, Hyunjung Shin*. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <b>(In preparation)</b> (2022).
 
-- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee<sup>†</sup>, Sang Joon Son<sup>*</sup>, Hyunjung Shin<sup>*</sup>. "Multiplex Network Integration for Disease Key Gene Identification". <b>(In preparation)</b> (2022).
+- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee<sup>†</sup>, Sang Joon Son*, Hyunjung Shin*. "Multiplex Network Integration for Disease Key Gene Identification". <b>(In preparation)</b> (2022).
 
-- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Seul-gi Lee<sup>†</sup>, Na-Rae Kim, Bumhee Park<sup>*</sup>, Sang Joon Son<sup>*</sup>. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
+- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Seul-gi Lee<sup>†</sup>, Na-Rae Kim, Bumhee Park*, Sang Joon Son*. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
 
-- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup>*</sup>, Sang Joon Son<sup>*</sup>. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage". <b>(In preparation)</b> (2022).
+- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park*, Sang Joon Son*. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage". <b>(In preparation)</b> (2022).
 
-- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim, Bumhee Park<sup>*</sup>, Sang Joon Son<sup>*</sup>. "Graph-based multi-modal neuroimage integration for disease-specific interpretable diagnosis prediction". <b>(In preparation)</b> (2022).
+- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim,  Bumhee Park*, Sang Joon Son*. "Graph-based multi-modal neuroimage integration for disease-specific interpretable diagnosis prediction". <b>(In preparation)</b> (2022).
 
-- <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin<sup>*</sup>. "Prospective Domain Adaptation for Longitudinal Data". <b>(In preparation)</b> (2022).
+- <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin*. "Prospective Domain Adaptation for Longitudinal Data". <b>(In preparation)</b> (2022).
 
-- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin<sup>*</sup>. "Multiplex Graph Adapted Semi-Supervised Learning". <b>(In preparation)</b> (2022).
+- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin* "Multiplex Graph Adapted Semi-Supervised Learning". <b>(In preparation)</b> (2022).
 
-- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup>*</sup>. "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b>(In preparation)</b> (2022).
+- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin* "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b>(In preparation)</b> (2022).
 
-- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin<sup>*</sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment". <b>(In preparation)</b> (2022).
+- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin*. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment". <b>(In preparation)</b> (2022).
 
-- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin<sup>*</sup>. "Mutual Domain Adaptation". <b>(In preparation)</b> (2022).
+- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin*. "Mutual Domain Adaptation". <b>(In preparation)</b> (2022).
 
-- <b>[3]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup>*</sup>. "Network based Enterprise Profiling with Semi-Supervised Learning". <b>(In preparation)</b> (2022).
+- <b>[3]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin*. "Network based Enterprise Profiling with Semi-Supervised Learning". <b>(In preparation)</b> (2022).
 
-- <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup>*</sup>. "Customer sentiment analysis with more sensibility". <b>Engineering Applications of Artificial Intelligence</b> (2021).  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
+- <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin*. "Customer sentiment analysis with more sensibility". <b>Engineering Applications of Artificial Intelligence</b> (2021).  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
 
-- <b>[1]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup>*</sup>. "Network Mirroring for Drug Repositioning". <b>BMC medical informatics and decision making</b> (2017). [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
+- <b>[1]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. "Network Mirroring for Drug Repositioning". <b>BMC medical informatics and decision making</b> (2017). [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
 
 
 ---
