@@ -39,7 +39,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ---
 
-## Journal Publications ( <sup>†</sup> Equallty contributed authors, <sup>*</sup> Corresponding authors )
+## Journal Publications **( <sup>†</sup> Equallty contributed authors & <sup>*</sup> Corresponding authors )**
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Sang Joon Son*, Hyunjung Shin*. "NetPRS: Network-based Polygenic Risk Score". <b>(In preparation)</b> (2022).
 
