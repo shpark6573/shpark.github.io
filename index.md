@@ -46,29 +46,29 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multiplex Network Integration for Disease Key Gene Identification". <b>(In preparation)</b> (2022).
+- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multiplex Network Integration for Disease Key Gene Identification". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Seul-gi Lee<sup>†</sup>, Na-Rae Kim, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
+- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Seul-gi Lee<sup>†</sup>, Na-Rae Kim, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage". <b>(In preparation)</b> (2022).
+- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim,  Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Graph-based multi-modal neuroimage integration for disease-specific interpretable diagnosis prediction". <b>(In preparation)</b> (2022).
+- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim,  Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Graph-based multi-modal neuroimage integration for disease-specific interpretable diagnosis prediction". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup> "Multiplex Graph Adapted Semi-Supervised Learning". <b>(In preparation)</b> (2022).
+- <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup> "Multiplex Graph Adapted Semi-Supervised Learning". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Domain Adaptation for Longitudinal Data". <b>(Submitted) Knowledge-Based Systems</b> (2022).
+- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Domain Adaptation for Longitudinal Data". <b><i>(Submitted) Knowledge-Based Systems</i></b> (2022).
 
-- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b>(Submitted) Journal of Biomedical Informatics</b> (2022).
+- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b><i>(Submitted) Journal of Biomedical Informatics</i></b> (2022).
 
-- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment". <b>(Submitted) Neural Networks</b> (2022).
+- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment". <b><i>(Submitted) Neural Networks</i></b> (2022).
 
-- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation". <b>(Submitted) Pattern Recognition</b> (2022).
+- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation". <b><i>(Submitted) Pattern Recognition</i></b> (2022).
 
-- <b>[3]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning". <b>(Submitted) Expert Systems with Applications</b> (2022).
+- <b>[3]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning". <b><i>(Submitted) Expert Systems with Applications</i></b> (2022).
 
-- <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Customer sentiment analysis with more sensibility". <b>Engineering Applications of Artificial Intelligence</b> (2021).  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
+- <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Customer sentiment analysis with more sensibility". <b><i>Engineering Applications of Artificial Intelligence</i></b> (2021).  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
 
-- <b>[1]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network Mirroring for Drug Repositioning". <b>BMC medical informatics and decision making</b> (2017). [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
+- <b>[1]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network Mirroring for Drug Repositioning". <b><i>BMC Medical Informatics and Decision Making</i></b> (2017). [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0449-x)]
 
 
 ---
