@@ -41,15 +41,15 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Journal Publications
 
-- <b>[14]</b> <b>Sunghong Park†</b>, Dong-gi Lee†, Yonghyun Nam, Sang Joon Son*, Hyunjung Shin*. "NetPRS: Network-based Polygenic Risk Score". <b>(In preparation)</b> (2022).
+- <b>[14]</b> <b>Sunghong Park§</b>, Dong-gi Lee§, Yonghyun Nam, Sang Joon Son*, Hyunjung Shin*. "NetPRS: Network-based Polygenic Risk Score". <b>(In preparation)</b> (2022).
 
-- <b>[13]</b> <b>Sunghong Park†</b>, Dong-gi Lee†, Yonghyun Nam†, Sang Joon Son*, Hyunjung Shin*. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <b>(In preparation)</b> (2022).
+- <b>[13]</b> <b>Sunghong Park§</b>, Dong-gi Lee§, Yonghyun Nam§, Sang Joon Son*, Hyunjung Shin*. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <b>(In preparation)</b> (2022).
 
-- <b>[12]</b> <b>Sunghong Park†</b>, Yonghyun Nam†, Dong-gi Lee†, Sang Joon Son*, Hyunjung Shin*. "Multiplex Network Integration for Disease Key Gene Identification". <b>(In preparation)</b> (2022).
+- <b>[12]</b> <b>Sunghong Park§</b>, Yonghyun Nam§, Dong-gi Lee§, Sang Joon Son*, Hyunjung Shin*. "Multiplex Network Integration for Disease Key Gene Identification". <b>(In preparation)</b> (2022).
 
-- <b>[11]</b> <b>Sunghong Park</b>, Seul-gi Lee†, Na-Rae Kim, Bumhee Park*, Sang Joon Son*. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
+- <b>[11]</b> <b>Sunghong Park§</b>, Seul-gi Lee§, Na-Rae Kim, Bumhee Park*, Sang Joon Son*. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns". <b>(In preparation)</b> (2022).
 
-- <b>[10]</b> <b>Sunghong Park</b>, Na-Rae Kim†, Seul-gi Lee, Bumhee Park*, Sang Joon Son*. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage". <b>(In preparation)</b> (2022).
+- <b>[10]</b> <b>Sunghong Park§</b>, Na-Rae Kim§, Seul-gi Lee, Bumhee Park*, Sang Joon Son*. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage". <b>(In preparation)</b> (2022).
 
 - <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim, Bumhee Park*, Sang Joon Son*. "Graph-based multi-modal neuroimage integration for disease-specific interpretable diagnosis prediction". <b>(In preparation)</b> (2022).
 
@@ -63,7 +63,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin*. "Mutual Domain Adaptation". <b>(In preparation)</b> (2022).
 
-- <b>[3]</b> <b>Sunghong Park†</b>, Kanghee Park†, Hyunjung Shin*. "Network based Enterprise Profiling with Semi-Supervised Learning". <b>(In preparation)</b> (2022).
+- <b>[3]</b> <b>Sunghong Park§</b>, Kanghee Park§, Hyunjung Shin*. "Network based Enterprise Profiling with Semi-Supervised Learning". <b>(In preparation)</b> (2022).
 
 - <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin*. "Customer sentiment analysis with more sensibility". <b>Engineering Applications of Artificial Intelligence</b> (2021).  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
 
