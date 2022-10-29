@@ -41,7 +41,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Journal Publications
 
-- <b>[14]</b> <b>Sunghong Park§</b>, Dong-gi Lee§, Yonghyun Nam, Sang Joon Son*, Hyunjung Shin*. "NetPRS: Network-based Polygenic Risk Score". <b>(In preparation)</b> (2022).
+- <b>[14]</b> <b>Sunghong Park<small>§</small></b>, Dong-gi Lee§, Yonghyun Nam, Sang Joon Son*, Hyunjung Shin*. "NetPRS: Network-based Polygenic Risk Score". <b>(In preparation)</b> (2022).
 
 - <b>[13]</b> <b>Sunghong Park§</b>, Dong-gi Lee§, Yonghyun Nam§, Sang Joon Son*, Hyunjung Shin*. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <b>(In preparation)</b> (2022).
 
