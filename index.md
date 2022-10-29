@@ -44,7 +44,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "NetPRS: Network-based Polygenic Risk Score". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <b><i>(In preparation)</i></b> (2022).
+- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <span style="color:blue"><b><i>(In preparation)</i></b></span> (2022).
 
 - <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multiplex Network Integration for Disease Key Gene Identification". <b><i>(In preparation)</i></b> (2022).
 
