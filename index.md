@@ -56,15 +56,15 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup> "Multiplex Graph Adapted Semi-Supervised Learning". <b><i>(In preparation)</i></b> (2022).
 
-- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Domain Adaptation for Longitudinal Data". <b><i>(Submitted) Knowledge-Based Systems</i></b> (2022).
+- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Domain Adaptation for Longitudinal Data". <b><i>(Submitted to) Knowledge-Based Systems</i></b> (2022).
 
-- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b><i>(Submitted) Journal of Biomedical Informatics</i></b> (2022).
+- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b><i>(Submitted to) Journal of Biomedical Informatics</i></b> (2022).
 
-- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment". <b><i>(Submitted) Neural Networks</i></b> (2022).
+- <b>[5]</b> <b>Sunghong Park</b>, Dong-gi Lee, Chang Hyung Hong, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment". <b><i>(Submitted to) Neural Networks</i></b> (2022).
 
-- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation". <b><i>(Submitted) Pattern Recognition</i></b> (2022).
+- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation". <b><i>(Submitted to) Pattern Recognition</i></b> (2022).
 
-- <b>[3]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning". <b><i>(Submitted) Expert Systems with Applications</i></b> (2022).
+- <b>[3]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning". <b><i>(Submitted to) Expert Systems with Applications</i></b> (2022).
 
 - <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Customer sentiment analysis with more sensibility". <b><i>Engineering Applications of Artificial Intelligence</i></b> (2021).  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
 
