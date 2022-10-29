@@ -41,9 +41,9 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Journal Publications
 
-- <b>[8]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. "Prospective Domain Adaptation for Longitudinal Data". <b>(In preparation)</b> (2022).
+- <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin*. "Prospective Domain Adaptation for Longitudinal Data". <b>(In preparation)</b> (2022).
 
-- <b>[7]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin*. "Multiplex Graph Adapted Semi-Supervised Learning using Alternating Direction Method of Multipliers". <b>(In preparation)</b> (2022).
+- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin*. "Multiplex Graph Adapted Semi-Supervised Learning". <b>(In preparation)</b> (2022).
 
 - <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin*. "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion". <b>(In preparation)</b> (2022).
 
