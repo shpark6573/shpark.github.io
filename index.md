@@ -40,7 +40,7 @@ Researches on machine learning algorithms and those applications in various fiel
 ---
 
 ## Journal Publications
-[Symbols] <sup>†</sup> Equally contributed authors / <sup>*</sup> Corresponding authors )
+[Symbols] <sup>†</sup> Equally contributed authors / <sup>*</sup> Corresponding authors
 
 - <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Sang Joon Son*, Hyunjung Shin*. "NetPRS: Network-based Polygenic Risk Score". <b>(In preparation)</b> (2022).
 
@@ -74,7 +74,7 @@ Researches on machine learning algorithms and those applications in various fiel
 ---
 
 ## Conference Presentations
-( <sup>†</sup> Equally contributed authors / <sup>*</sup> Corresponding authors )
+[Symbols] <sup>†</sup> Equally contributed authors / <sup>*</sup> Corresponding authors
 
 - <b>[30]</b> <b>Sunghong Park</b>, Kanghee Park, Hyunjung Shin*. "Domain adaptation based multi-graph integration for semi-supervised learning". Proc. of Korea Computer Congress 2022 (KCC 2022), June 2022, Jeju (Korea).
 
