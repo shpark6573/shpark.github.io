@@ -60,11 +60,11 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion".  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
 
-- <b>[5]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment".  <span style="color:#3e8edc"><b><i>(Submitted to) Neural Networks</i></b> (2023)</span>
+- <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
 
-- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation".  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
-
-- <b>[3]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
+- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation".  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
+  
+- <b>[3]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment".  <span style="color:#3e8edc"><b><i>(Submitted to) Neural Networks</i></b> (2023)</span>
 
 - <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Customer sentiment analysis with more sensibility".  <span style="color:#3e8edc"><b><i>Engineering Applications of Artificial Intelligence</i></b> (2021)</span>  [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197621002049)]
 
