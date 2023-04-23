@@ -64,7 +64,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation".  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
   
-- <b>[3]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Classification of Alzheimer’s Disease Conversion from Mild Cognitive Impairment".  <span style="color:#3e8edc"><b><i> Neural Networks</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.neunet.2023.04.018)]
+- <b>[3]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective classification of Alzheimer’s disease conversion from mild cognitive impairment".  <span style="color:#3e8edc"><b><i> Neural Networks</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.neunet.2023.04.018)]
 
 - <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Customer sentiment analysis with more sensibility".  <span style="color:#3e8edc"><b><i>Engineering Applications of Artificial Intelligence</i></b> (2021)</span> [[Paper](https://doi.org/10.1016/j.engappai.2021.104356)]
 
