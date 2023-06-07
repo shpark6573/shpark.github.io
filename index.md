@@ -42,19 +42,15 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
-- <b>[14]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "NetPRS: Network-based Polygenic Risk Score". <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
+- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "NetPRS: Network-based Polygenic Risk Score". <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
-
-- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multiplex Network Integration for Disease Key Gene Identification".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023).
-
-- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Seul-gi Lee<sup>†</sup>, Na-Rae Kim, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Longitudinal change-based causal inference for profiling neurodegenerative disease progression patterns".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
 - <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim,  Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Graph-based multi-modal neuroimage integration for disease-specific interpretable diagnosis prediction".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim,  Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Explainable multiplex graph propagational network with multi-modal neuroimage integration for dementia subtype diagnosis".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[8]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Yonghyun Nam, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup> "Multiplex Graph Adapted Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[8]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup> "Multiplex Graph Adapted Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
 - <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Domain Adaptation for Longitudinal Data".  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
 
