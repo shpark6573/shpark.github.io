@@ -42,31 +42,31 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
-- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Hyun Woong Roh<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Chang Hyung Hong<sup><span>&#42;</span></sup> _et al_. "Evaluation of a machine learning model for dementia subtype diagnosis based on plasma protein biomarkers and protein interaction network". <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
+- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Hyun Woong Roh<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Chang Hyung Hong<sup><span>&#42;</span></sup> _et al_. <b>"Evaluation of a machine learning model for dementia subtype diagnosis based on plasma protein biomarkers and protein interaction network"</b>. <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "NetPRS: Network-based Polygenic Risk Score". <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
+- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"NetPRS: Network-based Polygenic Risk Score"</b>. <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Multi-layered Network based Method for Identification of Brain Aging Biomarkers"</b>. <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup> _et al_. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup> _et al_. <b>"Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[9]</b> <b>Sunghong Park</b>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Explainable multiplex graph propagational network with multi-modal neuroimage integration for dementia subtype diagnosis".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[9]</b> <b>Sunghong Park</b>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Explainable multiplex graph propagational network with multi-modal neuroimage integration for dementia subtype diagnosis"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[8]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Multiplex Graph Adapted Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[8]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Multiplex Graph Adapted Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Prospective Domain Adaptation for Longitudinal Data".  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
+- <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Prospective Domain Adaptation for Longitudinal Data"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
 
-- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion".  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
+- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> <b>"In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
 
-- <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
+- <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Network based Enterprise Profiling with Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
 
-- <b>[4]</b> <b>Sunghong Park</b>, Myung Jun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation".  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
+- <b>[4]</b> <b>Sunghong Park</b>, Myung Jun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Mutual Domain Adaptation"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
   
-- <b>[3]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective classification of Alzheimer’s disease conversion from mild cognitive impairment".  <span style="color:#3e8edc"><b><i> Neural Networks</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.neunet.2023.04.018)]
+- <b>[3]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Prospective classification of Alzheimer’s disease conversion from mild cognitive impairment"</b>.  <span style="color:#3e8edc"><b><i> Neural Networks</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.neunet.2023.04.018)]
 
-- <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Customer sentiment analysis with more sensibility".  <span style="color:#3e8edc"><b><i>Engineering Applications of Artificial Intelligence</i></b> (2021)</span> [[Paper](https://doi.org/10.1016/j.engappai.2021.104356)]
+- <b>[2]</b> <b>Sunghong Park</b>, Junhee Cho, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Customer sentiment analysis with more sensibility"</b>.  <span style="color:#3e8edc"><b><i>Engineering Applications of Artificial Intelligence</i></b> (2021)</span> [[Paper](https://doi.org/10.1016/j.engappai.2021.104356)]
 
-- <b>[1]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network Mirroring for Drug Repositioning".  <span style="color:#3e8edc"><b><i>BMC Medical Informatics and Decision Making</i></b> (2017)</span> [[Paper](https://doi.org/10.1186/s12911-017-0449-x)]
+- <b>[1]</b> <b>Sunghong Park</b>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Network Mirroring for Drug Repositioning"</b>.  <span style="color:#3e8edc"><b><i>BMC Medical Informatics and Decision Making</i></b> (2017)</span> [[Paper](https://doi.org/10.1186/s12911-017-0449-x)]
 
 
 ---
