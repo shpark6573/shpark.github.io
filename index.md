@@ -42,6 +42,8 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
+- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Hyun Woong Roh<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Chang Hyung Hong<sup><span>&#42;</span></sup> et al.. "Evaluation of a machine learning model for dementia subtype diagnosis based on plasma protein biomarkers and protein interaction network". <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
+
 - <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "NetPRS: Network-based Polygenic Risk Score". <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
 
 - <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
