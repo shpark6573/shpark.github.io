@@ -46,21 +46,21 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "NetPRS: Network-based Polygenic Risk Score". <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Multi-layered Network based Method for Identification of Brain Aging Biomarkers". <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup>. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup> _et al_. "Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[9]</b> <b>Sunghong Park</b>, Seul-gi Lee, Na-Rae Kim,  Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Explainable multiplex graph propagational network with multi-modal neuroimage integration for dementia subtype diagnosis".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[9]</b> <b>Sunghong Park</b>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Explainable multiplex graph propagational network with multi-modal neuroimage integration for dementia subtype diagnosis".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[8]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup> "Multiplex Graph Adapted Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[8]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Multiplex Graph Adapted Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
 
-- <b>[7]</b> <b>Sunghong Park</b>, Sang Joon Son, Dong-gi Lee, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective Domain Adaptation for Longitudinal Data".  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
+- <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. "Prospective Domain Adaptation for Longitudinal Data".  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
 
 - <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> "In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion".  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
 
 - <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. "Network based Enterprise Profiling with Semi-Supervised Learning".  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
 
-- <b>[4]</b> <b>Sunghong Park</b>, Myungjun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation".  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
+- <b>[4]</b> <b>Sunghong Park</b>, Myung Jun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Mutual Domain Adaptation".  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
   
 - <b>[3]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. "Prospective classification of Alzheimer’s disease conversion from mild cognitive impairment".  <span style="color:#3e8edc"><b><i> Neural Networks</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.neunet.2023.04.018)]
 
