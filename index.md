@@ -60,7 +60,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Network based Enterprise Profiling with Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
 
-- <b>[4]</b> <b>Sunghong Park</b>, Myung Jun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Mutual Domain Adaptation"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Pattern Recognition</i></b> (2023)</span>
+- <b>[4]</b> <b>Sunghong Park</b>, Myung Jun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Mutual Domain Adaptation"</b>.  <span style="color:#3e8edc"><b><i> Pattern Recognition</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.patcog.2023.109919)]
   
 - <b>[3]</b> <b>Sunghong Park</b>, Chang Hyung Hong, Dong-gi Lee, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Prospective classification of Alzheimer’s disease conversion from mild cognitive impairment"</b>.  <span style="color:#3e8edc"><b><i> Neural Networks</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.neunet.2023.04.018)]
 
