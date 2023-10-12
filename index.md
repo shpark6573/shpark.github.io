@@ -56,9 +56,9 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Prospective Domain Adaptation for Longitudinal Data"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
 
-- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> <b>"In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems with Applications</i></b> (2023)</span>
+- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> <b>"In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Expert Systems With Applications</i></b> (2023)</span>
 
-- <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Network based Enterprise Profiling with Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b> (2023)</span> [[Paper](https://doi-org.libproxy.ajou.ac.kr/10.1016/j.eswa.2023.121716)]
+- <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Network based Enterprise Profiling with Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems With Applications</i></b> (2023)</span> [[Paper](https://doi-org.libproxy.ajou.ac.kr/10.1016/j.eswa.2023.121716)]
 
 - <b>[4]</b> <b>Sunghong Park</b>, Myung Jun Kim, Kanghee Park, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Mutual Domain Adaptation"</b>.  <span style="color:#3e8edc"><b><i> Pattern Recognition</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.patcog.2023.109919)]
   
