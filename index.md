@@ -20,21 +20,21 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ## Experience
 - <b>Post-doctoral Researcher</b> (September 2022 - Present)
-  - Department of Psychiatry, Ajou University School of Medicine, Suwon, Korea
+  - Ajou University School of Medicine, Suwon, Republic of Korea
 
 
 ---
 
 ## Education
 
-- <b>Ajou University</b> (March 2009 - August 2022)
+- <b>Ajou University</b>, Suwon, Republic of Korea (March 2009 - August 2022)
 
   - <b>Ph.D.</b> in Artificial Intelligence (March 2016 - August 2022)
     - Thesis: Graph Domain Adaptation for Semi-Supervied Learning
     - Advised by Professor Hyunjung Shin [[Lab](http://alphaminers.ai/)]
   - <b>B.S.</b> in Industrial Engineering (March 2009 - February 2016)
 
-- <b>Daegu Science High School</b> (March 2006 - February 2009)
+- <b>Daegu Science High School</b>, Daegu, Republic of Korea (March 2006 - February 2009)
 
 
 ---
@@ -42,21 +42,17 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
-- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Hyun Woong Roh<sup>†</sup>, Sang Joon Son<sup><span>&#42;</span></sup>, Chang Hyung Hong<sup><span>&#42;</span></sup> _et al_. <b>"Evaluation of a machine learning model for dementia subtype diagnosis based on plasma protein biomarkers and protein interaction network"</b>. <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
+- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Explainable multiplex graph propagation network with multimodal neuroimage integration for dementia subtype diagnosis"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2024)</span>
 
-- <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"NetPRS: Network-based Polygenic Risk Score"</b>. <span style="color:#3e8edc"> <b><i>(In preparation)</i></b> (2023)</span>
+- <b>[10]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Identification of molecular subtypes of dementia by using blood proteins interaction aware graph propagational network"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Briefings in Bioinformatics</i></b> (2024)</span>
 
-- <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Multi-layered Network based Method for Identification of Brain Aging Biomarkers"</b>. <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[9]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"NetPRS: SNP interaction aware network-based polygenic risk score for Alzheimer’s disease"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) IEEE EMBS BHI 2024 Conference</i></b> (2024)</span>
 
-- <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Na-Rae Kim<sup>†</sup>, Seul-gi Lee, Bumhee Park<sup><span>&#42;</span></sup>, Sang Joon Son<sup><span>&#42;</span></sup> _et al_. <b>"Label-guided independent component analysis for dementia subtype classification using multi-modal neuroimage"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
-
-- <b>[9]</b> <b>Sunghong Park</b>, Sang Joon Son<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Explainable multiplex graph propagational network with multi-modal neuroimage integration for dementia subtype diagnosis"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
-
-- <b>[8]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Multiplex Graph Adapted Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2023)</span>
+- <b>[8]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Kanghee Park<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Transactions on Neural Networks and Learning Systems</i></b> (2024)</span>
 
 - <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Prospective Domain Adaptation for Longitudinal Data"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
 
-- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Kanghee Park, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup> <b>"In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.eswa.2023.122253)]
+- <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Kanghee Park, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.eswa.2023.122253)]
 
 - <b>[5]</b> <b>Sunghong Park<sup>†</sup></b>, Kanghee Park<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Network based Enterprise Profiling with Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b> (2023)</span> [[Paper](https://doi-org.libproxy.ajou.ac.kr/10.1016/j.eswa.2023.121716)]
 
