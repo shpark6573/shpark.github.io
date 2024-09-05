@@ -52,7 +52,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[8]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Prospective Domain Adaptation for Longitudinal Data"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2023)</span>
 
-- <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Identification of molecular subtypes of dementia by using blood-proteins interaction-aware graph propagational network"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) Briefings in Bioinformatics</i></b> (2024)</span> [[Paper](https://doi.org/10.1093/bib/bbae428)]
+- <b>[7]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Identification of molecular subtypes of dementia by using blood-proteins interaction-aware graph propagational network"</b>. <span style="color:#3e8edc"><b><i> Briefings in Bioinformatics</i></b> (2024)</span> [[Paper](https://doi.org/10.1093/bib/bbae428)]
 
 - <b>[6]</b> <b>Sunghong Park</b>, Sang Joon Son, Kanghee Park, Yonghyun Nam, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"In-house data adaptation to public data: multisite MRI harmonization to predict Alzheimer’s disease conversion"</b>.  <span style="color:#3e8edc"><b><i> Expert Systems with Applications</i></b> (2023)</span> [[Paper](https://doi.org/10.1016/j.eswa.2023.122253)]
 
