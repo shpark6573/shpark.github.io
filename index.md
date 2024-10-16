@@ -42,6 +42,8 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
+- <b>[17]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Neurodegenerative Biomarker Prediction with Graph Propagational Network"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+
 - <b>[16]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Semi-Supervised Mutual Domain Adaptation for Multiple Heterogenous Data"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
 - <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Key gene identification with disease-specific protein-protein interaction network based on semi-supervised multiplex graph domain adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
