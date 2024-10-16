@@ -42,13 +42,21 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
+- <b>[16]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Semi-Supervised Mutual Domain Adaptation for Multiple Heterogenous Data"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+
+- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Key gene identification with disease-specific protein-protein interaction network based on semi-supervised multiplex graph domain adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+
+- <b>[14]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Label-free classification and localization of tumor in Whole Slide Images via multi-view feature representation-based one-way domain adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+
+- <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Machine Learning-Based Prediction of Neuropathological Subtypes of Dementia with Plasma Biomarkers"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2024)</span>
+
 - <b>[12]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Plasma protein-based identification of imaging-driven subtypes in mild cognitive impairment via protein-protein interaction aware explainable graph propagational network"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Computers in Biology and Medicine</i></b> (2024)</span>
 
 - <b>[11]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Explainable multiplex graph propagation network with multimodal neuroimage integration for dementia subtype diagnosis"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Transactions on Neural Networks and Learning Systems</i></b> (2024)</span>
 
 - <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"NetPRS: SNP interaction aware network-based polygenic risk score for Alzheimer’s disease"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) IEEE EMBS BHI 2024 Conference</i></b> (2024)</span>
 
-- <b>[9]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Kanghee Park<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Transactions on Neural Networks and Learning Systems</i></b> (2024)</span>
+- <b>[9]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Kanghee Park<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Transactions on Knowledge and Data Engineering Systems</i></b> (2024)</span>
 
 - <b>[8]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Prospective Domain Adaptation for Longitudinal Data"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2024)</span>
 
