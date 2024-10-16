@@ -58,7 +58,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[10]</b> <b>Sunghong Park<sup>†</sup></b>, Dong-gi Lee<sup>†</sup>, Juhyeon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"NetPRS: SNP interaction aware network-based polygenic risk score for Alzheimer’s disease"</b>. <span style="color:#3e8edc"><b><i>(Submitted to) IEEE EMBS BHI 2024 Conference</i></b> (2024)</span>
 
-- <b>[9]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Kanghee Park<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Transactions on Knowledge and Data Engineering Systems</i></b> (2024)</span>
+- <b>[9]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Kanghee Park<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"Multiplex Graph Domain Adaptation for Semi-Supervised Learning"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) IEEE Transactions on Knowledge and Data Engineering</i></b> (2024)</span>
 
 - <b>[8]</b> <b>Sunghong Park</b>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Prospective Domain Adaptation for Longitudinal Data"</b>.  <span style="color:#3e8edc"><b><i>(Submitted to) Knowledge-Based Systems</i></b> (2024)</span>
 
