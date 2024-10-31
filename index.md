@@ -145,6 +145,35 @@ Researches on machine learning algorithms and those applications in various fiel
 
 ---
 
+## Patents
+
+- <b>[6]</b> PROSPECTIVE CLASSIFICATION DEVICE FOR PREDICTING DEMENTIA AND OPERATION METHOD OF THE SAME [[Link](https://patents.google.com/patent/US20240221955A1/en)]
+  - Application No.: 18/401,742 (Filed: Jan. 2, 2024) & Publication No.: US 2024/0221955 A1 (Date: Jul. 4, 2024).
+  - Inventors: Hyunjung Shin, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, <b>Sunghong Park</b>.
+
+- <b>[5]</b> LEARNING METHOD AND DEVICE FOR ALZHEIMER PREDICTION MODEL BASED ON DOMAIN ADAPTATION [[Link](https://patents.google.com/patent/US20240221946A1/en)]
+  - Application No.: 18/401,741 (Filed: Jan. 2, 2024) & Publication No.: US 2024/0221946 A1 (Date: Jul. 4, 2024).
+  - Inventors: Hyunjung Shin, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, <b>Sunghong Park</b>.
+
+- <b>[4]</b> Domain adaptation method for longitudinal data and device using thereof [[Link](https://patents.google.com/patent/US20240220575A1/en)]
+  - Application No.: 18/398,170 (Filed: Dec. 28, 2023) & Publication No.: US 2024/0220575 A1 (Date: Jul. 4, 2024).
+  - Inventors: Hyunjung Shin, Chang Hyung Hong, Sang Joon Son, Hyun Woong Roh, <b>Sunghong Park</b>.
+
+- <b>[3]</b> 치매 예측을 위한 전향적 분류 장치 및 이의 동작 방법 [[Link](https://doi.org/10.8080/1020230196108)]
+  - 출원번호: 10-2023-0196108 (출원일자: 2023년 12월 29일) & 공개번호: 10-2024-0108289 (공개일자: 2024년 07월 09일).
+  - 발명자: 신현정, <b>박성홍</b>, 손상준, 홍창형, 노현웅.
+
+- <b>[2]</b> 도메인 적응 기반 알츠하이머 예측 모델 학습 방법 및 장치 [[Link](https://doi.org/10.8080/1020230196220)]
+  - 출원번호: 10-2023-0196220 (출원일자: 2023년 12월 29일) & 공개번호: 10-2024-0108291 (공개일자: 2024년 07월 09일).
+  - 발명자: 신현정, <b>박성홍</b>, 손상준, 홍창형, 노현웅.
+
+- <b>[1]</b> 종단적 데이터에 대한 도메인 적응 방법 및 이를 이용한 장치 [[Link](https://doi.org/10.8080/1020230192832)]
+  - 출원번호: 10-2023-0192832 (출원일자: 2023년 12월 27일) & 공개번호: 10-2024-0108271 (공개일자: 2024년 07월 09일).
+  - 발명자: 신현정, <b>박성홍</b>, 손상준, 홍창형, 노현웅.
+
+
+---
+
 ## Awards
 
 - <b>[4]</b> Best Presentation Paper Award, Proc. of Korea Computer Congress 2022 (KCC 2022)
