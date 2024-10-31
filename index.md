@@ -42,13 +42,17 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
-- <b>[17]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Neurodegenerative Biomarker Prediction with Graph Propagational Network"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+- <b>[19]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Neurodegenerative Biomarker Prediction with Graph Propagational Network"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
-- <b>[16]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Semi-Supervised Mutual Domain Adaptation for Multiple Heterogenous Data"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+- <b>[18]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Semi-Supervised Mutual Domain Adaptation for Multiple Heterogenous Data"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
-- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Key gene identification with disease-specific protein-protein interaction network based on semi-supervised multiplex graph domain adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+- <b>[17]</b> <b>Sunghong Park<sup>†</sup></b>, Yonghyun Nam<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Key gene identification with disease-specific protein-protein interaction network based on semi-supervised multiplex graph domain adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
-- <b>[14]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Label-free classification and localization of tumor in Whole Slide Images via multi-view feature representation-based one-way domain adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+- <b>[16]</b> <b>Sunghong Park<sup>†</sup></b>, Hyun Jin Hwang<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Graph-based Multi-view Clustering with Adaptive Anchor for Subtype Classification of Tumors in Whole Slide Images"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+
+- <b>[15]</b> <b>Sunghong Park<sup>†</sup></b>, Seung Ho Kim<sup>†</sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"MoTeR-CLAM: Morphological and Textural Representation-based Classification and Localization of Tumors in Whole Slide Images"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+
+- <b>[14]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Label-free Classification and Localization of Tumors in Whole Slide Images with Multi-view Feature Representation-based One-way Domain Adaptation"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
 - <b>[13]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup> _et al_. <b>"Machine Learning-Based Prediction of Neuropathological Subtypes of Dementia with Plasma Biomarkers"</b>.  <span style="color:#3e8edc"><b><i>(In preparation)</i></b> (2024)</span>
 
