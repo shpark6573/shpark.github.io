@@ -42,7 +42,9 @@ Researches on machine learning algorithms and those applications in various fiel
 ## Journal Publications
 <b><span>[</span> <sup>†</sup> Equally contributed authors & <sup><span>&#42;</span></sup> Corresponding authors <span>]</span></b>
 
-- <b>[21]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Semi-Supervised Mutual Domain Adaptation for Multiple Heterogenous Data"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+- <b>[22]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Semi-Supervised Mutual Domain Adaptation for Multiple Heterogenous Data"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+
+- <b>[21]</b> <b>Sunghong Park</b>, Masaud Shah<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"Graph-based multi-domain knowledge learning for identifying novel drug-target associations"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
 - <b>[20]</b> <b>Sunghong Park</b>, Doyoon Kim, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"netPGRS: network-based proteogenomic risk scoring model for dementia subtype diagnosis"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
