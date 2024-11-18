@@ -44,7 +44,7 @@ Researches on machine learning algorithms and those applications in various fiel
 
 - <b>[22]</b> <b>Sunghong Park</b>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup> _et al_. <b>"Semi-Supervised Mutual Domain Adaptation for Multiple Heterogenous Data"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
-- <b>[21]</b> <b>Sunghong Park</b>, Masaud Shah<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"Graph-based multi-domain knowledge learning for identifying novel drug-target associations"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
+- <b>[21]</b> <b>Sunghong Park<sup>†</sup></b>, Masaud Shah<sup>†</sup>, Hyunjung Shin<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>. <b>"Graph-based multi-domain knowledge learning for identifying novel drug-target associations"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
 - <b>[20]</b> <b>Sunghong Park<sup>†</sup></b>, Doyoon Kim<sup>†</sup>, Dong-gi Lee<sup>†</sup>, Sang-Hyuk Jung, Dokyoon Kim<sup><span>&#42;</span></sup>, Hyun Goo Woo<sup><span>&#42;</span></sup>, Hyunjung Shin<sup><span>&#42;</span></sup>. <b>"MuSiG-PRS: multiple SNP-SNP interactions-aware graph neural network for polygenic risk scoring of Alzheimer’s disease"</b>.  <span style="color:#3e8edc"><b><i>(In Preparation)</i></b> (2024)</span>
 
